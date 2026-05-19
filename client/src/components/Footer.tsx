@@ -144,7 +144,7 @@ const Footer = () => {
           <Col md={6} className="text-center text-md-end">
              {/* GitHub link */}
              <a 
-               href="https://github.com/Raphael-Kamau" 
+               href="https://github.com/kamunyuraphael" 
                target="_blank" 
                rel="noreferrer" 
                className="text-decoration-none small" 
