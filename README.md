@@ -1,5 +1,11 @@
 # WildSphere 🌍
 
+<img width="1259" height="669" alt="image" src="https://github.com/user-attachments/assets/83c6c9c3-2835-4672-88b1-a49d09671002" />
+
+<img width="1186" height="612" alt="image" src="https://github.com/user-attachments/assets/26dd584a-6fdf-48d8-9569-6e097260354f" />
+
+<img width="1217" height="375" alt="image" src="https://github.com/user-attachments/assets/96433ab1-6365-4701-8166-bf474b049df0" />
+
 A comprehensive platform dedicated to wildlife research, education, and conservation campaigns. WildSphere empowers researchers, educators, and conservation enthusiasts to collaborate, share knowledge, and drive meaningful environmental impact.
 
 ## 🎯 Mission
@@ -70,20 +76,6 @@ WildSphere/
 ### Code Quality
 
 This project uses ESLint for code quality and TypeScript for type safety. Please ensure all code passes linting before submitting pull requests.
-
-## 🤝 Contributing
-
-We welcome contributions from wildlife enthusiasts, developers, and conservation professionals! 
-
-To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please ensure your code follows our style guidelines and includes appropriate tests.
 
 ## 📄 License
 
